@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 868.8
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Game
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 104
+  controlID: 46
   draggingID: 0
 --- !u!114 &3
 MonoBehaviour:
@@ -95,8 +95,8 @@ MonoBehaviour:
     y: 0
     width: 342.4
     height: 516
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -446,9 +446,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 00740000
-    m_LastClickedID: 29696
-    m_ExpandedIDs: 00000000a4730000c273000000ca9a3bffffff7f
+    m_SelectedIDs: be070000
+    m_LastClickedID: 1982
+    m_ExpandedIDs: 00000000220600008e06000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -476,7 +476,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a4730000
+    m_ExpandedIDs: 0000000022060000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -503,7 +503,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000d8600000be61000090c10000000000005e820000cc730000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -615,24 +615,24 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 22}
-      m_SelectedIDs: 5c670000
-      m_LastClickedID: 26460
-      m_ExpandedIDs: fef9fffff8fafffffcfaffff0afbffff22fbffff2afbffffe066000002670000b0670000
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 16c80000
+      m_LastClickedID: 51222
+      m_ExpandedIDs: e4a3feffe6a3feff16c8000034c80000e6c80000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Golf_ball_HighPOly
+        m_OriginalName: Golf_ball_HighPOly
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -89438
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -957,7 +957,7 @@ MonoBehaviour:
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: UnityEditor.SceneViewCameraOverlay
-      index: 9
+      index: 10
       layout: 4
       size: {x: 0, y: 0}
       sizeOverriden: 0
@@ -998,9 +998,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0.12200001, z: 1.98}
+    m_Target: {x: -0.363, y: 0.12200001, z: 1.775}
     speed: 2
-    m_Value: {x: 0, y: 0.12200001, z: 1.98}
+    m_Value: {x: -0.363, y: 0.12200001, z: 1.775}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1046,13 +1046,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.027248755, y: 0.94292676, z: -0.32235232, w: -0.07965641}
+    m_Target: {x: -0.07742344, y: 0.8947541, z: -0.40538928, w: -0.1708519}
     speed: 2
-    m_Value: {x: -0.027247265, y: 0.94287515, z: -0.32233468, w: -0.07965205}
+    m_Value: {x: -0.07741918, y: 0.8947048, z: -0.40536696, w: -0.1708425}
   m_Size:
-    m_Target: 2.182593
+    m_Target: 0.04803417
     speed: 2
-    m_Value: 2.0886059
+    m_Value: 0.04803417
   m_Ortho:
     m_Target: 0
     speed: 2

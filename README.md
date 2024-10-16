@@ -11,4 +11,4 @@ Obiectele vor fi apucate prin intermediul actiunii de Grab.
 
 Pentru sportul ales, se va calcula un scor, specific acestuia (minigolf - numar de lovituri | baseball - distanta etc)  
 
-### Video cu demo: [Watch the video](https://www.youtube.com/watch?v=dQw4w9WgXcQ
+### Video cu demo: [Watch the video](VideoMiniGolf.mp4)

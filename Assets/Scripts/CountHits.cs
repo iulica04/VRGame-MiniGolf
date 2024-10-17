@@ -22,22 +22,15 @@ public class CountHits : MonoBehaviour
         }
     }
 
-        // Update is called once per frame
-        void Update()
-    {
-    }
+     
 
     void OnCollisionEnter(Collision collision)
     {
         if (collision.gameObject.tag == "fairways")
         {
-            // Crește numărul de lovituri
+         
             hits++;
 
-            // Afișează mesajul în consolă
-            Debug.Log("Mingea a fost lovită de crosă! Numar de lovituri: " + hits);
-
-            // Update the score using ScoreManager
             scoreManager.UpdateScore();
         }
     }

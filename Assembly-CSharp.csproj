@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\ScoreManager.cs" />
+    <Compile Include="Assets\Scripts\TransformInParticles.cs" />
     <Compile Include="Assets\Scripts\CountHits.cs" />
   </ItemGroup>
   <ItemGroup>

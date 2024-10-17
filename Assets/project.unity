@@ -884,7 +884,7 @@ GameObject:
   - component: {fileID: 780911523}
   m_Layer: 0
   m_Name: golfBallController
-  m_TagString: Untagged
+  m_TagString: golfBall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2268,6 +2268,7 @@ GameObject:
   - component: {fileID: 1322098817}
   - component: {fileID: 1322098816}
   - component: {fileID: 1322098815}
+  - component: {fileID: 1322098818}
   m_Layer: 0
   m_Name: Cube
   m_TagString: Untagged
@@ -2361,6 +2362,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1322098813}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1322098818
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1322098813}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 625f42aac52c9844ebb5c82523d47d70, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  particleEffectPrefab: {fileID: 8842154703002473108, guid: 5a179fa8e78837e42a8aa26363e4e903, type: 3}
 --- !u!1 &1363319463
 GameObject:
   m_ObjectHideFlags: 0
@@ -3974,6 +3988,7 @@ GameObject:
   - component: {fileID: 2140057219}
   - component: {fileID: 2140057218}
   - component: {fileID: 2140057217}
+  - component: {fileID: 2140057220}
   m_Layer: 0
   m_Name: Cube (1)
   m_TagString: Untagged
@@ -4067,6 +4082,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2140057215}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &2140057220
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2140057215}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 625f42aac52c9844ebb5c82523d47d70, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  particleEffectPrefab: {fileID: 8842154703002473108, guid: 5a179fa8e78837e42a8aa26363e4e903, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
